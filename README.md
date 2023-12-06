@@ -1,3 +1,5 @@
+![screencapture-localhost-3000-2023-12-06-18_50_07](https://github.com/kashifali0969082/calculator-using-react-/assets/144449902/918f1a71-13b0-45c3-8fc8-651ee3556a13)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
